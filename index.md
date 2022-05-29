@@ -24,4 +24,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-My Github Profile: [Click me]([https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://github.com/MalNEW))
+My Github Profile: [Click me](https://github.com/MalNEW)
