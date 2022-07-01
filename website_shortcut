@@ -1,0 +1,10 @@
+<script>
+    function bd(){
+        window.location.href="http://www.baidu.com";
+    }
+    function bg(){
+        window.location.href="http://www.bing.com";
+    }
+</script>
+<input type="button" value="百度" οnclick=javascript:bd()>
+<input type="button" value="百度" οnclick=javascript:bg()>
