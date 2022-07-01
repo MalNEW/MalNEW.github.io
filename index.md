@@ -24,6 +24,7 @@ QQ Fans Group:801021361 or [Click me](https://jq.qq.com/?_wv=1027&k=2NMlvwM9)
 - Network(WLAN) [WORKING]<br>
 - Network(SIM) [WORKING]<br>
 - IMEI [WORKING]<br>
+
 -------------2022/7/1---------------<br>
 - ScreenShot sometimes display "This application or admin not allow screenshot" and cannot screenshot [Reboot to fix]<br>
 
