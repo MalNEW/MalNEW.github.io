@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>如何获取MAID</title>
+    <link href="/20240913/HowToGetMAID/"/>
+    <url>/20240913/HowToGetMAID/</url>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>本教程仅提供MAID获取方法，不提供任意Maimai bot链接<br>请自行在互联网中寻找Maimai bot</p><h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><blockquote><p>一个可用的微信号<br>舞萌 | 中二 公众号</p></blockquote><h2 id="获取二维码"><a href="#获取二维码" class="headerlink" title="获取二维码"></a>获取二维码</h2><h3 id="电脑端"><a href="#电脑端" class="headerlink" title="电脑端"></a>电脑端</h3><p>打开 舞萌 | 中二 公众号，单击下方的”玩家二维码”<br><img src="https://img.picui.cn/free/2024/09/13/66e44ce99b318.png" alt="获取玩家二维码"></p><p>使用手机或微信截图扫描二维码得到MAID</p><p>使用浏览器打开，在弹出的页面中复制以下文本至任意bot完成绑定<br>‘’’<br>SGWCMAIDxxxxxxxxx<br>‘’’</p><h3 id="手机-Pad端"><a href="#手机-Pad端" class="headerlink" title="手机&#x2F;Pad端"></a>手机&#x2F;Pad端</h3><p>打开 舞萌 | 中二 公众号，单击下方的”玩家二维码”<br>截图二维码页面</p><p>打开微信扫一扫，选择相册 ——&gt; 你刚才截的图<br>在弹出的页面中复制以下文本至任意bot完成绑定<br>‘’’<br>SGWCMAIDxxxxxxxxx<br>‘’’</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Lenovo TB-X605F 超详细刷机救砖教程</title>
     <link href="/20240829/lenowow-x605f/"/>
     <url>/20240829/lenowow-x605f/</url>
